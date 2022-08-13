@@ -66,8 +66,10 @@ See each project for installation instructions.
 ## Installation
 
 1. Download [git_diff_explorer.sh](git_diff_explorer.sh).
+
 Either
 2. Copy it to a directory in your `PATH`.
+
 Or
 2. Update your enviroment initialization scripts (e.g. `.bash_profile` or `.zshrc`) to `source` the file.
 
