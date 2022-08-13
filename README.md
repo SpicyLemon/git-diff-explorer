@@ -91,7 +91,7 @@ codec/proto_codec.go
 codec/legacy/doc.go
 ```
 
-A `--commit <hash>` option is also available. It is a shortcut for getting the diff of a single commit.
+A `--commit <hash>` option is also available to get the diff of a single commit. It is transformed into the arguments `<hash>~` `<hash>`.
 
 Output can be controlled with a few custom options too:
 * `--output-type <output type>` - This only affects moved files.
