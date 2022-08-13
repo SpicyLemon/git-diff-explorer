@@ -3,3 +3,6 @@
 
 # Ugh
 .DS_Store
+
+# direnv
+.envrc
